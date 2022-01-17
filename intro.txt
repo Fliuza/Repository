@@ -1,7 +1,0 @@
-Hello, My name is Fliuza
-
-I'm Technical Business Analyst from Barcalys IT executive center.
-I started my joruney in Data Analytics working with SQL and Tableau, working on analystical reports and buidling dashboards to visualize key data insights. 
-After few years of experience I moved to Technical Business Analysis role, which includes more complex projects and reponsibilties involved.
-
-After the completion of this course, I expect myself to be a certified data professional with comprehenisve knowledge of the field and academic background on this field. 
